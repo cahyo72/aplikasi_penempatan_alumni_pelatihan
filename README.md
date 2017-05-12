@@ -1,0 +1,2 @@
+# aplikasi_penempatan_alumni_pelatihan
+Aplikasi penempatan alumni pelatihan ini dibuat menggunakan framework CodeIgniter
